@@ -271,11 +271,7 @@ This practical demonstrates the complete Retrieval-Augmented Generation workflow
 
 The notebook's recorded results show that RAG performs better than the no-retrieval baseline on the selected domain-specific questions. The project illustrates how retrieval can help language models provide answers grounded in a supplied document collection.
 
-## 15. GitHub Repository
 
-**Repository URL:** [PASTE YOUR GITHUB REPOSITORY LINK HERE]
-
-The repository should contain the completed notebook and all required source and data files for reproducing the experiment.
 
 ---
 
